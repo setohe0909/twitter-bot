@@ -1,0 +1,22 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "node.js + twit.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/setohe0909/twitter-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/setohe0909/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/setohe0909/twitter-bot#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
